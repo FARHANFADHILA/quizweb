@@ -1,4 +1,6 @@
-
+body{
+    padding: 40px;
+}
 .kuis{
     display: flex;    
     width: 100%;
