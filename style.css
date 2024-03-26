@@ -1,0 +1,30 @@
+
+.kuis{
+    display: flex;    
+    width: 100%;
+    height: 39%;
+}
+.kuis .containerkuis{
+    height: 30%;
+}
+.gambar img{
+    display: flex;
+    width: 50px;
+    height: 50px;
+
+}
+.kuis .gambar{
+    margin-left: 90%;
+}
+.treekontent{
+    display: flex;
+    float: left;
+}
+.konten{
+    width: 30%;
+    height: 50%;
+    padding: 30px;
+}
+p{
+    text-align: justify;
+}
